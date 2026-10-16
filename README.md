@@ -2,7 +2,7 @@
 
 Site statique (HTML/CSS, sans dépendance), publié avec GitHub Pages.
 
-En ligne : https://seetroly.github.io/leo-blondel.github.io/
+En ligne : https://seetroly.github.io/leo-blondel1.github.io/
 
 ## Pages
 
